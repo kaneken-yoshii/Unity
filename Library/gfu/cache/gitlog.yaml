@@ -1,0 +1,2668 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-06-15T00:01:45.733+09:00
+  initializedAtString: 2021-06-14T23:58:30.791+09:00
+  log:
+  - commitID: e6a003f84c505f7b2a2fff01d8c4200ea45325ec
+    mergeA: 
+    mergeB: 
+    authorName: kaneken-yoshii
+    authorEmail: a2012126@toyama.kosen-ac.jp
+    commitEmail: a2012126@toyama.kosen-ac.jp
+    commitName: kaneken-yoshii
+    summary: init Unity project
+    description: init Unity project
+    timeString: 2021-06-14T23:59:39.000+09:00
+    commitTimeString: 2021-06-14T23:59:39.000+09:00
+    changes:
+    - path: .vscode\settings.json
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\.vscode\settings.json
+      projectPath: .vscode\settings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\CameraRotater.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\CameraRotater.cs
+      projectPath: Assets\CameraRotater.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\CameraRotater.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\CameraRotater.cs.meta
+      projectPath: Assets\CameraRotater.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\JoyCamera.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\JoyCamera.cs
+      projectPath: Assets\JoyCamera.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\JoyCamera.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\JoyCamera.cs.meta
+      projectPath: Assets\JoyCamera.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\unity-360-image-park-material 1.mat
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Materials\unity-360-image-park-material
+        1.mat
+      projectPath: Assets\Materials\unity-360-image-park-material 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\unity-360-image-park-material 1.mat.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Materials\unity-360-image-park-material
+        1.mat.meta
+      projectPath: Assets\Materials\unity-360-image-park-material 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\unity-360-image-park-material.mat
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Materials\unity-360-image-park-material.mat
+      projectPath: Assets\Materials\unity-360-image-park-material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\unity-360-image-park-material.mat.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Materials\unity-360-image-park-material.mat.meta
+      projectPath: Assets\Materials\unity-360-image-park-material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere.meta
+      projectPath: Assets\Octahedron Sphere.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes.meta
+      projectPath: Assets\Octahedron Sphere\Meshes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 0 D1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 0 D1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 0
+        D1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 0 D1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 0 D1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 0
+        D1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 1 D1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 1 D1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 1
+        D1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 1 D1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 1 D1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 1
+        D1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 2 D1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 2 D1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 2
+        D1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 2 D1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 2 D1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 2
+        D1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 3 D1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 3 D1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 3
+        D1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 3 D1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 3 D1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 3
+        D1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 4 D1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 4 D1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 4
+        D1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 4 D1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 4 D1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 4
+        D1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 5 D1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 5 D1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 5
+        D1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 5 D1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 5 D1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 5
+        D1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 6 D1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 6 D1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 6
+        D1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 6 D1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Diameter
+        1\Octahedron Sphere 6 D1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Diameter 1\Octahedron Sphere 6
+        D1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 0 R1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 0 R1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 0 R1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 0 R1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 0 R1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 0 R1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 1 R1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 1 R1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 1 R1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 1 R1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 1 R1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 1 R1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 2 R1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 2 R1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 2 R1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 2 R1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 2 R1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 2 R1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 3 R1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 3 R1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 3 R1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 3 R1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 3 R1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 3 R1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 4 R1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 4 R1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 4 R1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 4 R1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 4 R1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 4 R1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 5 R1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 5 R1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 5 R1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 5 R1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 5 R1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 5 R1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 6 R1.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 6 R1.asset
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 6 R1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 6 R1.asset.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\Radius
+        1\Octahedron Sphere 6 R1.asset.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\Radius 1\Octahedron Sphere 6 R1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\SphereMaterial001.mat
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\SphereMaterial001.mat
+      projectPath: Assets\Octahedron Sphere\Meshes\SphereMaterial001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Octahedron Sphere\Meshes\SphereMaterial001.mat.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Octahedron Sphere\Meshes\SphereMaterial001.mat.meta
+      projectPath: Assets\Octahedron Sphere\Meshes\SphereMaterial001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp.meta
+      projectPath: Assets\RosSharp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins.meta
+      projectPath: Assets\RosSharp\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External.meta
+      projectPath: Assets\RosSharp\Plugins\External.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.dll
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.dll.meta
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.xml
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.xml
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.xml.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.xml.meta
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.Bson.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.dll
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.dll.meta
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.xml
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.xml
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\Newtonsoft.Json.xml.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\Newtonsoft.Json.xml.meta
+      projectPath: Assets\RosSharp\Plugins\External\Newtonsoft.Json.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\websocket-sharp.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\websocket-sharp.dll
+      projectPath: Assets\RosSharp\Plugins\External\websocket-sharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\websocket-sharp.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\websocket-sharp.dll.meta
+      projectPath: Assets\RosSharp\Plugins\External\websocket-sharp.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\websocket-sharp.xml
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\websocket-sharp.xml
+      projectPath: Assets\RosSharp\Plugins\External\websocket-sharp.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\External\websocket-sharp.xml.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\External\websocket-sharp.xml.meta
+      projectPath: Assets\RosSharp\Plugins\External\websocket-sharp.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\MessageGeneration.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\MessageGeneration.dll
+      projectPath: Assets\RosSharp\Plugins\MessageGeneration.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\MessageGeneration.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\MessageGeneration.dll.meta
+      projectPath: Assets\RosSharp\Plugins\MessageGeneration.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\Microsoft.Bcl.AsyncInterfaces.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\Microsoft.Bcl.AsyncInterfaces.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\Microsoft.Bcl.AsyncInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\Microsoft.Bcl.AsyncInterfaces.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\Microsoft.Bcl.AsyncInterfaces.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\Microsoft.Bcl.AsyncInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Buffers.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Buffers.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Buffers.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Buffers.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Buffers.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Buffers.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Memory.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Memory.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Memory.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Memory.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Memory.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Memory.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Runtime.CompilerServices.Unsafe.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Runtime.CompilerServices.Unsafe.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Runtime.CompilerServices.Unsafe.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Runtime.CompilerServices.Unsafe.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Runtime.CompilerServices.Unsafe.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Runtime.CompilerServices.Unsafe.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Text.Encodings.Web.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Text.Encodings.Web.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Text.Encodings.Web.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Text.Encodings.Web.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Text.Encodings.Web.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Text.Encodings.Web.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Text.Json.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Text.Json.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Text.Json.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Text.Json.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Text.Json.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Text.Json.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Threading.Channels.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Threading.Channels.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Threading.Channels.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Threading.Channels.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Threading.Channels.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Threading.Channels.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.dll
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.xml
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.xml
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.xml.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.xml.meta
+      projectPath: Assets\RosSharp\Plugins\Microsoft\System.Threading.Tasks.Extensions.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\RosBridgeClient.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\RosBridgeClient.dll
+      projectPath: Assets\RosSharp\Plugins\RosBridgeClient.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\RosBridgeClient.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\RosBridgeClient.dll.meta
+      projectPath: Assets\RosSharp\Plugins\RosBridgeClient.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Urdf.dll
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Urdf.dll
+      projectPath: Assets\RosSharp\Plugins\Urdf.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Plugins\Urdf.dll.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Plugins\Urdf.dll.meta
+      projectPath: Assets\RosSharp\Plugins\Urdf.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\README.pdf
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\README.pdf
+      projectPath: Assets\RosSharp\README.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\README.pdf.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\README.pdf.meta
+      projectPath: Assets\RosSharp\README.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scenes.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scenes.meta
+      projectPath: Assets\RosSharp\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scenes\FibonacciActionScene.unity
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scenes\FibonacciActionScene.unity
+      projectPath: Assets\RosSharp\Scenes\FibonacciActionScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scenes\FibonacciActionScene.unity.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scenes\FibonacciActionScene.unity.meta
+      projectPath: Assets\RosSharp\Scenes\FibonacciActionScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scenes\GazeboSimulationScene.unity
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scenes\GazeboSimulationScene.unity
+      projectPath: Assets\RosSharp\Scenes\GazeboSimulationScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scenes\GazeboSimulationScene.unity.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scenes\GazeboSimulationScene.unity.meta
+      projectPath: Assets\RosSharp\Scenes\GazeboSimulationScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scenes\UnitySimulationScene.unity
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scenes\UnitySimulationScene.unity
+      projectPath: Assets\RosSharp\Scenes\UnitySimulationScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scenes\UnitySimulationScene.unity.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scenes\UnitySimulationScene.unity.meta
+      projectPath: Assets\RosSharp\Scenes\UnitySimulationScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts.meta
+      projectPath: Assets\RosSharp\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Extensions.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Extensions.meta
+      projectPath: Assets\RosSharp\Scripts\Extensions.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Extensions\HeaderExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Extensions\HeaderExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Extensions\HeaderExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Extensions\HeaderExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Extensions\HeaderExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Extensions\HeaderExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Extensions\TransformExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Extensions\TransformExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Extensions\TransformExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Extensions\TransformExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Extensions\TransformExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Extensions\TransformExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction\FibonacciActionClientEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction\FibonacciActionClientEditor.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction\FibonacciActionClientEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction\FibonacciActionClientEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction\FibonacciActionClientEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\FibonacciAction\FibonacciActionClientEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\JointStatePatcherEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\JointStatePatcherEditor.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\JointStatePatcherEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\JointStatePatcherEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\JointStatePatcherEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\JointStatePatcherEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryActionAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryActionAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryActionAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryActionAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryActionAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryActionAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryMsgAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryMsgAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryMsgAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryMsgAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryMsgAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectoryMsgAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectorySrvAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectorySrvAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectorySrvAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectorySrvAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectorySrvAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\DirectorySrvAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageActionAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageActionAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageActionAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageActionAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageActionAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageActionAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageMsgAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageMsgAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageMsgAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageMsgAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageMsgAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageMsgAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageSrvAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageSrvAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageSrvAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageSrvAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageSrvAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\PackageSrvAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleActionAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleActionAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleActionAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleActionAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleActionAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleActionAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleMsgAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleMsgAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleMsgAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleMsgAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleMsgAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleMsgAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleSrvAutoGenEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleSrvAutoGenEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleSrvAutoGenEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleSrvAutoGenEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleSrvAutoGenEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\MessageGeneration\SingleSrvAutoGenEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosHandler.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosHandler.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosHandler.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosHandler.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferFromRosHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosHandler.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosHandler.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosHandler.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosHandler.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Editor\UrdfTransfer\TransferToRosHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStatePatcher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStatePatcher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStatePatcher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStatePatcher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStatePatcher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStatePatcher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateReader.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateReader.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateReader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateReader.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateReader.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateReader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateWriter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateWriter.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateWriter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateWriter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateWriter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JointStateWriter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisInputPasser.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisInputPasser.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisInputPasser.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisInputPasser.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisInputPasser.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisInputPasser.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointMotorWriter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointMotorWriter.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointMotorWriter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointMotorWriter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointMotorWriter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointMotorWriter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointTransformWriter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointTransformWriter.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointTransformWriter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointTransformWriter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointTransformWriter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisJointTransformWriter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisReader.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisReader.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisReader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisReader.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisReader.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisReader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisWriter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisWriter.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisWriter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisWriter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisWriter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyAxisWriter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonReader.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonReader.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonReader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonReader.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonReader.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonReader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonWriter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonWriter.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonWriter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonWriter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonWriter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\JoyButtonWriter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanReader.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanReader.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanReader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanReader.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanReader.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanReader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanWriter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanWriter.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanWriter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanWriter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanWriter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\MessageHandling\LaserScanWriter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\GetParamServiceProvider.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\GetParamServiceProvider.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\GetParamServiceProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\GetParamServiceProvider.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\GetParamServiceProvider.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\GetParamServiceProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImagePublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImagePublisher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImagePublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImagePublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImagePublisher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImagePublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImageSubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImageSubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImageSubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImageSubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImageSubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\ImageSubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStatePublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStatePublisher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStatePublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStatePublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStatePublisher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStatePublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStateSubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStateSubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStateSubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStateSubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStateSubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JointStateSubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoyPublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoyPublisher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoyPublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoyPublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoyPublisher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoyPublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoySubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoySubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoySubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoySubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoySubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\JoySubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanPublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanPublisher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanPublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanPublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanPublisher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanPublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanSubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanSubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanSubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanSubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanSubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\LaserScanSubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\OdometrySubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\OdometrySubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\OdometrySubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\OdometrySubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\OdometrySubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\OdometrySubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedPublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedPublisher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedPublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedPublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedPublisher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedPublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedSubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedSubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedSubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedSubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedSubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\PoseStampedSubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\RosConnector.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\RosConnector.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\RosConnector.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\RosConnector.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\RosConnector.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\RosConnector.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistPublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistPublisher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistPublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistPublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistPublisher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistPublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistSubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistSubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistSubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistSubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistSubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\TwistSubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionClient.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionClient.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionClient.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionClient.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionClient.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionClient.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionSever.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionSever.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionSever.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionSever.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionSever.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityFibonacciActionSever.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityPublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityPublisher.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityPublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityPublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityPublisher.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityPublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityServiceProvider.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityServiceProvider.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityServiceProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityServiceProvider.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityServiceProvider.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnityServiceProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnitySubscriber.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnitySubscriber.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnitySubscriber.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnitySubscriber.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnitySubscriber.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\RosCommuncation\UnitySubscriber.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizer.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizer.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizer.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizer.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerLines.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerLines.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerLines.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerLines.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerLines.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerLines.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerMesh.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerMesh.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerMesh.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerMesh.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerMesh.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerMesh.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerSpheres.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerSpheres.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerSpheres.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerSpheres.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerSpheres.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\SensorDataVisualization\LaserScanVisualizerSpheres.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Timing.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Timing.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Timing.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Timing\Timer.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Timing\Timer.cs
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Timing\Timer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\RosBridgeClient\Timing\Timer.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\RosBridgeClient\Timing\Timer.cs.meta
+      projectPath: Assets\RosSharp\Scripts\RosBridgeClient\Timing\Timer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\LocateAssetHandler.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\LocateAssetHandler.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\LocateAssetHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\LocateAssetHandler.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\LocateAssetHandler.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\LocateAssetHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfAssetPathHandler.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfAssetPathHandler.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfAssetPathHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfAssetPathHandler.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfAssetPathHandler.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfAssetPathHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfExportPathHandler.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfExportPathHandler.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfExportPathHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfExportPathHandler.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfExportPathHandler.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfExportPathHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfMeshExportHandler.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfMeshExportHandler.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfMeshExportHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfMeshExportHandler.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfMeshExportHandler.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\AssetHandlers\UrdfMeshExportHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\HingeJointLimitsManagerEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\HingeJointLimitsManagerEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\HingeJointLimitsManagerEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\HingeJointLimitsManagerEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\HingeJointLimitsManagerEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\HingeJointLimitsManagerEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionsEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionsEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionsEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionsEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionsEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfCollisionsEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfInertialEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfInertialEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfInertialEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfInertialEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfInertialEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfInertialEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfJointEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfJointEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfJointEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfJointEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfJointEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfJointEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfLinkEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfLinkEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfLinkEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfLinkEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfLinkEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfLinkEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfPluginsEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfPluginsEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfPluginsEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfPluginsEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfPluginsEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfPluginsEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfRobotEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfRobotEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfRobotEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfRobotEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfRobotEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfRobotEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualsEditor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualsEditor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualsEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualsEditor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualsEditor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\CustomInspectors\UrdfVisualsEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfExportEditorWindow.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfExportEditorWindow.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfExportEditorWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfExportEditorWindow.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfExportEditorWindow.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfExportEditorWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterContextMenuItem.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterContextMenuItem.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterContextMenuItem.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterContextMenuItem.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterContextMenuItem.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterContextMenuItem.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterMenuItem.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterMenuItem.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterMenuItem.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterMenuItem.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterMenuItem.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfImporterMenuItem.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfRobotCreatorMenuItem.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfRobotCreatorMenuItem.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfRobotCreatorMenuItem.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfRobotCreatorMenuItem.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfRobotCreatorMenuItem.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MenuItems\UrdfRobotCreatorMenuItem.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\ColladaAssetPostProcessor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\ColladaAssetPostProcessor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\ColladaAssetPostProcessor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\ColladaAssetPostProcessor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\ColladaAssetPostProcessor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\ColladaAssetPostProcessor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlAssetPostProcessor.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlAssetPostProcessor.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlAssetPostProcessor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlAssetPostProcessor.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlAssetPostProcessor.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlAssetPostProcessor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlExporter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlExporter.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlExporter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlExporter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlExporter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlExporter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlImporter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlImporter.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlImporter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlImporter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlImporter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlImporter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlReader.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlReader.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlReader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlReader.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlReader.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlReader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlWriter.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlWriter.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlWriter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlWriter.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlWriter.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\MeshProcessing\StlWriter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionsExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionsExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionsExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionsExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionsExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfCollisionsExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometry.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometry.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometry.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometry.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometry.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometry.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryCollision.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryCollision.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryCollision.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryCollision.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryCollision.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryCollision.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryVisual.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryVisual.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryVisual.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryVisual.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryVisual.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfGeometryVisual.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfLinkExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfLinkExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfLinkExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfLinkExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfLinkExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfLinkExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfMaterial.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfMaterial.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfMaterial.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfMaterial.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfMaterial.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfMaterial.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfRobotExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfRobotExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfRobotExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfRobotExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfRobotExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfRobotExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualsExtensions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualsExtensions.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualsExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualsExtensions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualsExtensions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Editor\UrdfComponents\UrdfVisualsExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\JointLimitsManagers.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\HingeJointLimitsManager.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\HingeJointLimitsManager.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\HingeJointLimitsManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\HingeJointLimitsManager.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\HingeJointLimitsManager.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\HingeJointLimitsManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\PrismaticJointLimitsManager.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\PrismaticJointLimitsManager.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\PrismaticJointLimitsManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\PrismaticJointLimitsManager.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\PrismaticJointLimitsManager.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\JointLimitsManagers\PrismaticJointLimitsManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Math.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Math.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Math.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Math\Matrix3x3.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Math\Matrix3x3.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\Math\Matrix3x3.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\Math\Matrix3x3.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\Math\Matrix3x3.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\Math\Matrix3x3.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollision.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollision.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollision.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollision.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollision.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollision.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollisions.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollisions.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollisions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollisions.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollisions.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfCollisions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfInertial.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfInertial.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfInertial.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfInertial.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfInertial.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfInertial.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\HingeJointAngleCalculator.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\HingeJointAngleCalculator.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\HingeJointAngleCalculator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\HingeJointAngleCalculator.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\HingeJointAngleCalculator.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\HingeJointAngleCalculator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJoint.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJoint.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJoint.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJoint.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJoint.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJoint.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointContinuous.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointContinuous.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointContinuous.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointContinuous.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointContinuous.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointContinuous.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFixed.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFixed.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFixed.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFixed.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFixed.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFixed.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFloating.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFloating.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFloating.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFloating.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFloating.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointFloating.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPlanar.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPlanar.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPlanar.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPlanar.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPlanar.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPlanar.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPrismatic.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPrismatic.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPrismatic.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPrismatic.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPrismatic.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointPrismatic.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointRevolute.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointRevolute.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointRevolute.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointRevolute.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointRevolute.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfJoints\UrdfJointRevolute.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfLink.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfLink.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfLink.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfLink.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfLink.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfLink.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfOrigin.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfOrigin.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfOrigin.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfOrigin.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfOrigin.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfOrigin.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugin.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugin.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugin.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugin.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugin.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugin.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugins.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugins.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugins.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugins.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugins.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfPlugins.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfRobot.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfRobot.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfRobot.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfRobot.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfRobot.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfRobot.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisual.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisual.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisual.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisual.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisual.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisual.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisuals.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisuals.cs
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisuals.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisuals.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisuals.cs.meta
+      projectPath: Assets\RosSharp\Scripts\Urdf\UrdfComponents\UrdfVisuals.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharpMessages.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharpMessages.meta
+      projectPath: Assets\RosSharpMessages.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharpMessages\Test.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharpMessages\Test.meta
+      projectPath: Assets\RosSharpMessages\Test.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharpMessages\Test\msg.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharpMessages\Test\msg.meta
+      projectPath: Assets\RosSharpMessages\Test\msg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharpMessages\Test\msg\Test.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharpMessages\Test\msg\Test.cs
+      projectPath: Assets\RosSharpMessages\Test\msg\Test.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RosSharpMessages\Test\msg\Test.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\RosSharpMessages\Test\msg\Test.cs.meta
+      projectPath: Assets\RosSharpMessages\Test\msg\Test.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sphere.mat
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Sphere.mat
+      projectPath: Assets\Sphere.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sphere.mat.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Sphere.mat.meta
+      projectPath: Assets\Sphere.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sphere100.fbx
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Sphere100.fbx
+      projectPath: Assets\Sphere100.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sphere100.fbx.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\Sphere100.fbx.meta
+      projectPath: Assets\Sphere100.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TestPublisher.cs
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\TestPublisher.cs
+      projectPath: Assets\TestPublisher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TestPublisher.cs.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\TestPublisher.cs.meta
+      projectPath: Assets\TestPublisher.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\unity-360-image-park-material.jpg
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\unity-360-image-park-material.jpg
+      projectPath: Assets\unity-360-image-park-material.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\unity-360-image-park-material.jpg.meta
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\unity-360-image-park-material.jpg.meta
+      projectPath: Assets\unity-360-image-park-material.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d7baa89a83ed0a1af6cd643e24ac2f4e2c4223ac
+    mergeA: 
+    mergeB: 
+    authorName: kaneken-yoshii
+    authorEmail: a2012126@toyama.kosen-ac.jp
+    commitEmail: a2012126@toyama.kosen-ac.jp
+    commitName: kaneken-yoshii
+    summary: Initial commit
+    description: 
+    timeString: 2021-06-14T23:58:30.000+09:00
+    commitTimeString: 2021-06-14T23:58:30.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Yoshii\Desktop\New Unity Project\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
